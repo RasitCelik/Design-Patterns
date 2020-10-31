@@ -1,0 +1,12 @@
+C:\Users\rasid\source\repos\DesignPatterns\Decorator\bin\Debug\netcoreapp3.1\Decorator.exe
+C:\Users\rasid\source\repos\DesignPatterns\Decorator\bin\Debug\netcoreapp3.1\Decorator.deps.json
+C:\Users\rasid\source\repos\DesignPatterns\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.json
+C:\Users\rasid\source\repos\DesignPatterns\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.dev.json
+C:\Users\rasid\source\repos\DesignPatterns\Decorator\bin\Debug\netcoreapp3.1\Decorator.dll
+C:\Users\rasid\source\repos\DesignPatterns\Decorator\bin\Debug\netcoreapp3.1\Decorator.pdb
+C:\Users\rasid\source\repos\DesignPatterns\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfoInputs.cache
+C:\Users\rasid\source\repos\DesignPatterns\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfo.cs
+C:\Users\rasid\source\repos\DesignPatterns\Decorator\obj\Debug\netcoreapp3.1\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\rasid\source\repos\DesignPatterns\Decorator\obj\Debug\netcoreapp3.1\Decorator.dll
+C:\Users\rasid\source\repos\DesignPatterns\Decorator\obj\Debug\netcoreapp3.1\Decorator.pdb
+C:\Users\rasid\source\repos\DesignPatterns\Decorator\obj\Debug\netcoreapp3.1\Decorator.genruntimeconfig.cache

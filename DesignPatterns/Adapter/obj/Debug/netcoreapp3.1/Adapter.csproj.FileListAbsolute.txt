@@ -1,0 +1,13 @@
+C:\Users\rasid\source\repos\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+C:\Users\rasid\source\repos\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+C:\Users\rasid\source\repos\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+C:\Users\rasid\source\repos\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+C:\Users\rasid\source\repos\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\rasid\source\repos\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\rasid\source\repos\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+C:\Users\rasid\source\repos\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+C:\Users\rasid\source\repos\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+C:\Users\rasid\source\repos\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\rasid\source\repos\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\rasid\source\repos\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\rasid\source\repos\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache

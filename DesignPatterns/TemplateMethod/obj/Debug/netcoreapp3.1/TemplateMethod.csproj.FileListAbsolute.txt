@@ -1,0 +1,13 @@
+C:\Users\rasid\source\repos\DesignPatterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.exe
+C:\Users\rasid\source\repos\DesignPatterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.deps.json
+C:\Users\rasid\source\repos\DesignPatterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.json
+C:\Users\rasid\source\repos\DesignPatterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.dev.json
+C:\Users\rasid\source\repos\DesignPatterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.dll
+C:\Users\rasid\source\repos\DesignPatterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.pdb
+C:\Users\rasid\source\repos\DesignPatterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\rasid\source\repos\DesignPatterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\rasid\source\repos\DesignPatterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfo.cs
+C:\Users\rasid\source\repos\DesignPatterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\rasid\source\repos\DesignPatterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.dll
+C:\Users\rasid\source\repos\DesignPatterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.pdb
+C:\Users\rasid\source\repos\DesignPatterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.genruntimeconfig.cache
